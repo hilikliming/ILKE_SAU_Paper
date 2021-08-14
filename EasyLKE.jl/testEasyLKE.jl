@@ -1,6 +1,6 @@
 include("EasyLKE.jl")
-include("G:/Code/EasySRC.jl/EasyData.jl")
-include("G:/Code/EasySRC.jl/EasySRC.jl")
+include("../EasySRC.jl/EasyData.jl")
+include("../EasySRC.jl/EasySRC.jl")
 
 using CSV, DelimitedFiles
 using Main.EasyLKE
